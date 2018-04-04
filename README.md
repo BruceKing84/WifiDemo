@@ -4,9 +4,9 @@ This is an open source connected to the WiFi project, welcome everyone's Star an
 -----------------------------------------------------------------------------------------
 MyBlog：
     关于我，欢迎关注~
- [我的博客](http://blog.csdn.net/u011974987) 
+ [我的博客](http://blog.csdn.net/ctrlqun) 
 * 项目描述：
-    本项目实现了连接Wifi的功能，验证密码错误等功能，实现项目的需求，后来我把项目整理的下，放在[GitHub](https://github.com/git-xuhao/WifiDemo) 上面了。
+    本项目实现了连接Wifi的功能，验证密码错误等功能，实现项目的需求，后来我把项目整理的下，放在[GitHub](https://github.com/BruceKing84/WifiDemo) 上面了。
 
 * 本Demo效果截图示例如下：
 
@@ -24,7 +24,7 @@ MyBlog：
 ---------
 *WifiDemo
 --------------
-*[WifiDemo](https://github.com/git-xuhao/WifiDemo)
+*[WifiDemo](https://github.com/BruceKing84/WifiDemo)
 
     
 
